@@ -30,7 +30,7 @@
     <ProjectGuid>{aa6fd6f6-730e-4b28-b4d7-f97b6729a134}</ProjectGuid>
     <RootNamespace>datastructs</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>libkc_datastructs</ProjectName>
+    <ProjectName>libkc_system</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
